@@ -1,6 +1,6 @@
-# LoRA em LLMs para Geração de Sarcasmo
+# LoRA em LLMs para adaptação de estilo linguístico
 
-> 📄 Paper Lora: [link](https://arxiv.org/abs/2106.09685)
+> 📄 Paper LoRA: [link](https://arxiv.org/abs/2106.09685)
 
 > 📂 Dataset: [link](https://huggingface.co/datasets/shiv213/Automatic-Sarcasm-Detection-Twitter)
 
