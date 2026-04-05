@@ -1,4 +1,4 @@
-# Fine-tuning TinyLlama para Geração de Sarcasmo com LoRA
+# LoRA em LLMs para Geração de Sarcasmo
 
 > 📄 Paper Lora: [link](https://arxiv.org/abs/2106.09685)
 
